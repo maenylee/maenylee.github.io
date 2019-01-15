@@ -2,8 +2,8 @@
 title: MuMu Blog
 SEOTitle: 木木的博客 | MuMu Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "关于程序与设计、黑客与画家 ，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @MuMu 的个人博客，与你一起发现更大的世界。"
+email: 1808840360@qq.com
+description: "关于程序与设计、黑客与画家 ，文学 | 这里是 @MuMu 的个人博客，与你一起发现更大的世界。"
 keyword: "博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
 url: "https://maenylee.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
+weibo_username:     nihao5181
+zhihu_username:
+github_username:    maenylee
+twitter_username:
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: lee
 
 # Netease settings
 netease_comment: false
@@ -72,7 +72,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain:
 
 
 
@@ -109,31 +109,7 @@ friends: [
         title: "乱序",
         href: "http://mida.re/"
     },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
-    },{
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
-    },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
-    },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
-    },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
+        title: "方志朋的博客",
+        href: "https://me.csdn.net/forezp"
     }
 ]
