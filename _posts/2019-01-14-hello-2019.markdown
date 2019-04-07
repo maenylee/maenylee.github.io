@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Hello 2019"
-subtitle:   " \"Hello World, Hello Blog\""
+subtitle:   " \"心里长出两朵花，一朵玫瑰花，因情而动，一朵彼岸花，向死而生。\""
 date:       2019-01-14 17:30:00
 author:     "Danny"
 header-img: "img/post-bg-2015.jpg"
@@ -11,3 +11,6 @@ tags:
     - Meta
 ---
 你好，2019！
+
+
+
